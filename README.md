@@ -9,3 +9,9 @@ such as server-side development, mobile
 app development and so on.
 
 ![](/Photo/js1.webp)
+
+> HTML - Просто пишет код.
+
+> CSS - Украшивает код.
+
+>JAVA SCREAPT - Оживляет код.
