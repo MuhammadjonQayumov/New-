@@ -1,5 +1,6 @@
 # Java Script 
 > JavaScript - популярный язык программирования, который имеет широкий спектр применений.
+
 > JavaScript was previously used mainly for 
 making webpages interactive such as form 
 validation, animation, etc. Nowadays, 
