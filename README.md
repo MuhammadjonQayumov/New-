@@ -19,5 +19,14 @@ app development and so on.
 > Благодаря широкому спектру
 приложений, вы можете запускать 
 JavaScript несколькими способами:
+
 1.Использование вкладки консоли веб-браузера.
+
 2.Используя Node.js.
+
+3.Путем создания веб-страниц.
+
+# 1. Использование вкладки консоли веб-браузера.
+>1. Open your browser and right click in any empty area and select inspect or press F12.
+
+2. Open the developer tools and go to Console tab. Write the Javascript code and press Enter
